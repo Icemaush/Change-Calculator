@@ -1,2 +1,2 @@
 # Change-Calculator
-A change calculator created using C#.
+A change calculator created using C#. Runs in console.
